@@ -68,6 +68,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Zapier Instagram Integrations](https://zapier.com/apps/instagram-for-business/integrations) – Automate workflows with Instagram.
 - [Preview App](https://thepreviewapp.com/) – Plan and design Instagram feed layouts.
+- [InstaNoMark](https://instagramvideodownloadwithoutwatermaker.com/) – Free web tool to download public Instagram Reels and videos as the original HD MP4 or MP3, without Instagram's watermark overlay.
 
 ## Communities & Forums
 
